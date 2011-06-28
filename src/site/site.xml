@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project name="Maven">
+
+  <bannerLeft>
+    <name>Maven</name>
+    <src>http://maven.apache.org/images/apache-maven-project.png</src>
+    <href>http://maven.apache.org/</href>
+  </bannerLeft>
+
+  <bannerRight>
+    <src>http://maven.apache.org/images/maven-small.gif</src>
+  </bannerRight>
+
+  <publishDate format="dd MMM yyyy" position="right" />
+  <version position="right"/>
+
+  <skin>
+    <groupId>org.apache.maven.skins</groupId>
+    <artifactId>maven-classic-skin</artifactId>
+  </skin>
+  <!--default classic stylus application-->
+
+  <body>
+
+    <breadcrumbs>
+        <item name="GI" href="http://www.lasalle.org.co/educacion/ginfo.html"/>
+        <item name="Caracterización" href="http://www.lasalle.org.co/sed/Documentos/P-GI-01.pdf"/>
+        <item name="LMD" href="http://www.lasalle.org.co/educacion/listado.html"/>
+        <item name="LMR" href="http://www.lasalle.org.co/educacion/listadoregistro.html"/>
+    </breadcrumbs>
+
+    <links>
+      <item name="Apache" href="http://www.apache.org/" />
+      <item name="Maven 1.0" href="http://maven.apache.org/"/>
+      <item name="Maven 2" href="http://maven.apache.org/maven2/"/>
+    </links>
+
+    <menu name="PROCESO">
+      <item name="DOCUMENTOS" href="http://www.lasalle.org.co/sed/Documentos/P-GI-01.pdf"/>
+      <item name="FORMATOS" href="faq.html"/>
+    </menu>
+
+    <menu name="Revisión por la Dirección">
+      <item name="2011" href="revision-direccion-2011.html"/>
+    </menu>
+
+    <menu name="Maven 2.0">
+      <item name="APT Format" href="format.html"/>
+      <item name="FAQ" href="faq.html"/>
+      <item name="Xdoc Example" href="xdoc.html"/>
+    </menu>
+  </body>
+</project>
